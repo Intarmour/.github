@@ -20,6 +20,8 @@ In an era where digital threats are evolving rapidly, Intarmour stands at the fo
 
 🚀 **[Docker Magento](https://github.com/intarmour/docker-magento)**
 
+🚀 **[Docker Akeneo](https://github.com/Intarmour/docker-akeneo)**
+
 Our Docker Magento project is designed to streamline the deployment of Magento environments using Docker. This setup allows for quick, scalable, and secure Magento installations, tailored to meet the demanding needs of modern e-commerce platforms. This repository contains all you need to get started, including comprehensive documentation on how to deploy your own Magento instance efficiently and securely.
 
 ### Why Choose Us?
