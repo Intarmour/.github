@@ -39,7 +39,7 @@ Our Docker Magento project is designed to streamline the deployment of Magento e
 ### Contact Us
 
 - **Tech Support:** `tech@intarmour.com`
-- **LinkedIn Personal:** [Simone Chinaglia](https://www.linkedin.com/in/simonechinaglia)
+- **LinkedIn Personal:** [Simone Chinaglia](https://www.linkedin.com/in/simonenogara)
 - **LinkedIn Company:** [intarmour](https://www.linkedin.com/company/intarmour)
 - **Twitter:** [Follow us on Twitter](https://twitter.com/intarmour)
 - **Email:** `info@intarmour.com`
